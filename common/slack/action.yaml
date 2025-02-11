@@ -1,5 +1,5 @@
 name: Slack
-author: DevOpsSangwon
+author: cinamonydh
 description: 'Use slack in github action'
 inputs:
   DEPLOY_STEP_STATUS:

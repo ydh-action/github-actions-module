@@ -1,5 +1,5 @@
 name: set-environment
-author: DevOpsSangwon
+author: cinamonydh
 description: 'Use set-environment job in github action'
 inputs:
   REF_TYPE:
@@ -12,7 +12,7 @@ inputs:
     default: 'dev'
 outputs:
   environment:
-    description: 'Get env'
+    description: set env'
     value: ${{ steps.set-env.outputs.environment }}
   
 runs:

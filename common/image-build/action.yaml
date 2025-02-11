@@ -1,5 +1,5 @@
 name: image build
-author: DevOpsSangwon
+author: cinamonydh
 description: 'Use image-build in github action'
 inputs:
   REPOSITORY:

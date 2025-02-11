@@ -1,5 +1,5 @@
 name: test
-author: DevOpsSangwon
+author: cinamonydh
 description: 'Use test job in github action'
 inputs:
   NODE_VERSION:

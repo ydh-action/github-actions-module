@@ -1,5 +1,5 @@
 name: create-pr
-author: DevOpsSangwon
+author: cinamonydh
 description: 'Use create-pr job in github action'
 inputs:
   PERSONAL_ACCESS_TOKEN:

@@ -1,5 +1,5 @@
 name: deploy kubernetes
-author: DevOpsSangwon
+author: cinamonydh
 description: 'Use deploy job in github action'
 inputs:
   KUBECTL_VERSION:
